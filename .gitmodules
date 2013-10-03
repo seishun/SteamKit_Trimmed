@@ -1,0 +1,6 @@
+[submodule "SteamTools"]
+	path = SteamTools
+	url = git@github.com:seishun/SteamTools.git
+[submodule "SteamResources"]
+	path = SteamResources
+	url = git@github.com:seishun/SteamResources.git
